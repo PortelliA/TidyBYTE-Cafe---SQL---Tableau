@@ -1,0 +1,38 @@
+id,count,item_name,price,cost
+1,2374,"Large Cappuccino",5.25,1.06100000
+2,2441,"Small Cappuccino",4.40,0.71037500
+3,2359,"Large Flat White",5.25,1.06100000
+4,2400,"Small Flat White",4.40,0.71037500
+5,2448,"Large Latte",5.25,1.06100000
+6,2443,"Small Latte",4.40,0.71037500
+7,2393,"Large Skim Milk Cappuccino",5.25,1.06100000
+8,2463,"Small Skim Milk Cappuccino",4.40,0.71037500
+9,2440,"Large Skim Milk Flat White",5.25,1.06100000
+10,2467,"Small Skim Milk Flat White",4.40,0.71037500
+11,2419,"Large Skim Milk Latte",5.25,1.06100000
+12,2469,"Small Skim Milk Latte",4.40,0.71037500
+13,2452,"Large Oat Milk Cappuccino",5.25,1.32000000
+14,2422,"Small Oat Milk Cappuccino",4.40,0.90925000
+15,2416,"Large Oat Milk Flat White",5.25,1.32000000
+16,2413,"Small Oat Milk Flat White",4.40,0.90925000
+17,2466,"Large Oat Milk Latte",5.25,1.32000000
+18,2407,"Small Oat Milk Latte",4.40,0.90925000
+19,2413,"Large Almond Milk Cappuccino",5.25,1.32000000
+20,2453,"Small Almond Milk Cappuccino",4.40,0.90925000
+21,2478,"Large Almond Milk Flat White",5.25,1.32000000
+22,2513,"Small Almond Milk Flat White",4.40,0.90925000
+23,2491,"Large Almond Milk Latte",5.25,1.32000000
+24,2415,"Small Almond Milk Latte",4.40,0.90925000
+25,2360,"Small Long Black",3.90,0.36100000
+26,2467,"Large Long Black",4.65,0.60600000
+27,2437,"Small Espresso",2.90,0.34500000
+28,2411,"Double Espresso",3.90,0.57000000
+29,1773,"Extra Shot of Coffee",0.75,0.22500000
+30,1733,"Caramel Syrup Add-on",0.75,0.01834000
+31,1745,"Almond Syrup Add-on",0.75,0.01834000
+32,1733,"Brown Sugar Add-on",0.00,0.06200000
+33,2911,"Date Biscuit",3.20,0.91165755
+34,2832,"Choc-Chip Biscuit",3.20,0.91165755
+35,2904,"Almond Biscuit",3.20,0.91165755
+36,5144,"Toasted Chicken Teriyaki Sandwich",9.50,4.55440585
+37,5239,"Cheese and Tomato Sandwich",9.00,2.96523485
