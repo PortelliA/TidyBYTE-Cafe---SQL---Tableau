@@ -6,6 +6,10 @@ This is a personal project with the intention of putting some SQL techniques int
 
 Then, I constructed some tables that I could import into Tableau to make two dashboards that visualize the data. By trying to make a bit more effort into the visuals as my learning of Tableau has risen a bit, I've attempted to make a visually aesthetic story comprising of two dashboards and an introductory page.
 
+## Tableau Story
+
+Check out the Tableau story visualizing this data [here](https://public.tableau.com/shared/Y6CTTWYMC?:display_count=n&:origin=viz_share_link).
+
 ## Scenario
 
 Gunther Smith came to Australia to open a cafe, seeking a change from his successful site in America. He established tidyBYTE Cafe in a busy area in Sydney, creating a 37-item menu. The menu includes various coffee styles and sizes, along with several addons, two sandwich items, and three biscuits to choose from.
@@ -79,9 +83,6 @@ Following the database setup, I inputted existing information regarding ingredie
 
 Thursdays and mid-mornings experience high sales volume, whereas Saturdays represent an opportunity for growth. Targeting future strategies to boost Saturday revenue, ensuring a more balanced and profitable weekly performance. Additionally, almond and oat milk coffee varieties contribute significantly to sales, while specialty sandwiches and high-margin syrup add-ons drive high revenue and profit.
 
-## Tableau Story
-
-Check out the Tableau story visualizing this data [here](https://public.tableau.com/shared/Y6CTTWYMC?:display_count=n&:origin=viz_share_link).
 
 ## Files Included
 
