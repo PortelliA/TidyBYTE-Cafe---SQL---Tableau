@@ -8,7 +8,7 @@ Then, I constructed some tables that I could import into Tableau to make two das
 
 ## Scenario
 
-Gunther Smith came to Australia to open a cafe, seeking a change from his successful site in America. He established tidyBYTE Cafe in a busy area in Sydney, bringing with him a simple yet diverse 37-item menu. The menu includes various coffee styles and sizes, along with several addons, two sandwich items, and three biscuits to choose from.
+Gunther Smith came to Australia to open a cafe, seeking a change from his successful site in America. He established tidyBYTE Cafe in a busy area in Sydney, creating a 37-item menu. The menu includes various coffee styles and sizes, along with several addons, two sandwich items, and three biscuits to choose from.
 
 Gunther provided all the ingredient details, including measurements and recipes, and requested the construction of a database to capture sales data for future analysis.
 
@@ -23,7 +23,7 @@ Gunther provided all the ingredient details, including measurements and recipes,
 - **Inventory Table**: Manages inventory levels of each ingredient.
 - **Transaction_Items Table**: Captures sold items per transaction.
 
-This setup organizes necessary data to manage and analyze the cafe's operations effectively.
+Taking into consideration appropriate naming, foreign keys & design.
 
 ## Part 2: Data Input
 
@@ -68,16 +68,16 @@ Following the database setup, I inputted existing information regarding ingredie
 ## Challenges & Recommendations
 
 **Issues:**
-- Saturdays show slower sales compared to other days of the week, despite operating at a 1.5x rate, impacting overall revenue.
+- Saturdays show slower sales compared to other days of the week, operating at a 1.5x pay rate for the casual and part-time staff. Impacting overall revenue.
 
 **Potential Solutions for Enhancing Saturday Sales:**
 1. **Promotional Campaigns**: Special discounts, deals, or loyalty rewards exclusive to Saturdays.
-2. **Marketing Initiatives**: Social media and email marketing for Saturday-specific offers and events.
-3. **Menu Innovations**: The high-profit margins of the syrups indicate a lucrative opportunity. Consider adding additional items that incorporate the syrups. These potential recipes could be trialed exclusively on Saturdays, being a slower day. With a bit of advertisement, this could be a way to determine if the new items have a positive impact while not affecting the main trade.
+2. **Marketing Initiatives**: Set up social media and email marketing, where Saturday-specific offers and events could be shared.
+3. **Menu Revamp**: With such a high profit margin coming from Syrups. Consider adding additional items that incorporate the syrups. These potential recipes could be trialed exclusively on Saturdays, being a slower day. With a bit of advertisement, this could be a way to determine if the new items have a positive impact while not affecting the main trade.
 
 ## Conclusion
 
-Thursdays and mid-mornings experience high sales volume, whereas Saturdays represent an opportunity for growth. Implementing targeted strategies can boost Saturday revenue, ensuring a more balanced and profitable weekly performance. Additionally, almond and oat milk coffee varieties contribute significantly to sales, while specialty sandwiches and high-margin syrup add-ons drive substantial revenue and profit.
+Thursdays and mid-mornings experience high sales volume, whereas Saturdays represent an opportunity for growth. Targeting future strategies to boost Saturday revenue, ensuring a more balanced and profitable weekly performance. Additionally, almond and oat milk coffee varieties contribute significantly to sales, while specialty sandwiches and high-margin syrup add-ons drive high revenue and profit.
 
 ## Tableau Story
 
@@ -92,4 +92,4 @@ Check out the Tableau story visualizing this data [here](https://public.tableau.
 
 ---
 
-Thank you for reviewing the tidyBYTE Cafe Database Project. If you have any questions or need further insights, feel free to ask!
+Thank you for reviewing the tidyBYTE Cafe Database Project. All data used was fabricated, feel free to use for your own means.
