@@ -27,9 +27,9 @@ Gunther provided all the ingredient details, including measurements and recipes,
 - **Inventory Table**: Manages inventory levels of each ingredient.
 - **Transaction_Items Table**: Captures sold items per transaction.
 
-Taking into consideration appropriate naming, foreign keys & design
+Taking into consideration appropriate naming conventions, foreign keys, and overall design, I've used ChartDB to help visualize and connect the dots for the database setup before writing it out. Below, you'll find an image illustrating this setup.
 
-![alt text][Screenshot 2025-01-20 082140.pn](https://github.com/PortelliA/TidyBYTE-Cafe---SQL---Tableau/blob/bfeb47146e2cc34ddcc861927aa8d34a8c50766d/Screenshot%202025-01-20%20082140.png)
+![image_alt](https://github.com/PortelliA/TidyBYTE-Cafe---SQL---Tableau/blob/bfeb47146e2cc34ddcc861927aa8d34a8c50766d/Screenshot%202025-01-20%20082140.png)
 
 ## Part 2: Data Input
 
