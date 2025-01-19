@@ -27,7 +27,9 @@ Gunther provided all the ingredient details, including measurements and recipes,
 - **Inventory Table**: Manages inventory levels of each ingredient.
 - **Transaction_Items Table**: Captures sold items per transaction.
 
-Taking into consideration appropriate naming, foreign keys & design.
+Taking into consideration appropriate naming, foreign keys & design
+
+![alt text](Screenshot 2025-01-20 082140.png)
 
 ## Part 2: Data Input
 
