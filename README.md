@@ -29,7 +29,7 @@ Gunther provided all the ingredient details, including measurements and recipes,
 
 Taking into consideration appropriate naming, foreign keys & design
 
-![alt text]([Screenshot 2025-01-20 082140.pn](https://github.com/PortelliA/TidyBYTE-Cafe---SQL---Tableau/blob/bfeb47146e2cc34ddcc861927aa8d34a8c50766d/Screenshot%202025-01-20%20082140.png)
+![alt text][Screenshot 2025-01-20 082140.pn](https://github.com/PortelliA/TidyBYTE-Cafe---SQL---Tableau/blob/bfeb47146e2cc34ddcc861927aa8d34a8c50766d/Screenshot%202025-01-20%20082140.png)
 
 ## Part 2: Data Input
 
